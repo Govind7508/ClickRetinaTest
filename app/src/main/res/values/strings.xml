@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="overallscore">Overall Score</string>
+    <string name="average">Average</string>
+    <string name="searchVolume">Search Volume</string>
+    <string name="hight">HIGH</string>
+    <string name="title">TITLE</string>
+    <string name="descrption">DESCRIPTION</string>
+    <string name="competition">Competion</string>
+</resources>
